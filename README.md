@@ -1,3 +1,5 @@
+ ![snake gif](https://github.com/GuilhermeAlmeida15/GuilhermeAlmeida15/blob/output/github-contribution-grid-snake.gif)
+
 <h4 align="left">Oi , tudo bem? Me chamo Guilherme Almeida.<br><br>° tenho 16 anos<br><br>° Sou estudante do 3 ano  do Ensino Médio<br><br>° Estudante de Desenvolvimento Front-End</h4>
 
 ###

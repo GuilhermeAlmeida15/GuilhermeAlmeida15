@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Status</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">Techs</h3>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">Social Midia</h3>
+<h2 align="left">Social Midia</h2>
 
 ###
 

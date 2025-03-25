@@ -41,6 +41,4 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/GuilhermeAlmeida15/GuilhermeAlmeida15/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/GuilhermeAlmeida15/GuilhermeAlmeida15/blob/output/github-snake-dark.svg)

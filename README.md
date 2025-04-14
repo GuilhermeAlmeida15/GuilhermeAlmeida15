@@ -8,9 +8,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlmeida15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeAlmeida15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<a href="https://github.com/GuilhermeAlmeida15/github-readme-stats">
+  <img height=180  align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlmeida15&theme=radical" />
+</a>
+
+<a href="https://github.com/GuilhermeAlmeida15">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeAlmeida15&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
 </div>
+
 
 ###
 
@@ -39,12 +45,12 @@
 </div>
 
 ###
-
+###
 <div align="center">
   
   ![snake gif](https://github.com/GuilhermeAlmeida15/GuilhermeAlmeida15/blob/output/github-snake-dark.svg)
   
 </div>
-
+###
 
 

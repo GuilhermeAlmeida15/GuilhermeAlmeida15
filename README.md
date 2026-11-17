@@ -1,5 +1,5 @@
 
-<h4 align="left">Oi , tudo bem? Me chamo Guilherme Almeida.<br><br>° tenho 16 anos<br><br>° Sou estudante do 3 ano  do Ensino Médio<br><br>° Estudante de Desenvolvimento Front-End</h4>
+<h4 align="left">Oi , tudo bem? Me chamo Guilherme Almeida.<br><br>° tenho 18 anos<br><br>° Sou estudante de Análise Desenvolvimento de Sistemas<br><br>° Estudante de Desenvolvimento Full-Stack</h4>
 
 ###
 
